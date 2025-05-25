@@ -1,10 +1,11 @@
+// Библиотеки
 #include <iostream>
 #include <string>
 
 int main() {
-  std::string name;
-  std::cout << "Введите имя: ";
-  std::cin >> name;
-  std::cout << "Hello world from " << name << std::endl;
+  std::string name; // Переменная имени
+  std::cout << "Введите имя: "; // Вывод запроса
+  std::cin >> name; // Ввод имени
+  std::cout << "Hello world from " << name << std::endl; // Вывод приветствия
   return 0;
 }
