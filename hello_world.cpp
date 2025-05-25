@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string>
 
-int main() {
+int main() { // Start
   std::string name; // Переменная имени
   std::cout << "Введите имя: "; // Вывод запроса
   std::cin >> name; // Ввод имени
