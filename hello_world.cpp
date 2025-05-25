@@ -1,4 +1,4 @@
-// Библиотеки
+// Libraries
 #include <iostream>
 #include <string>
 
